@@ -3,6 +3,8 @@ Protection and charging module for 3/4/5S lithium batteries
 This project is fully open-source and may be used commercially.
 ZOUDIO is only liable for products of its own production.
 
+![Picture of the BMS345](BMS345%20picture.jpg)
+
 Based on:
 Texas Instruments BQ77915 primary battery protector
 Texas Instruments BQ24650 battery charger
